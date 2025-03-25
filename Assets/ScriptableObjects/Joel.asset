@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef810fd6785973149b1d73b77f4017d5, type: 3}
+  m_Name: Joel
+  m_EditorClassIdentifier: 
+  ballName: Joel
+  pointCarry: 20
+  ballLvl: 4
+  ball: {fileID: 286833228101174521, guid: e6b2fd3a61fa35e4aa914fdd6e9f13c6, type: 3}
